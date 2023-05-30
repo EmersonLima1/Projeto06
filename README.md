@@ -1,5 +1,3 @@
-# Projeto06
-
 ## Objetivo
 <div align='justify'>
 
@@ -16,7 +14,7 @@ Além disso, Python permite personalizar as visualizações de acordo com as nec
   
 Algumas das principais bibliotecas do Python para visualização de dados são:
 
-  - Matplotlib: É uma das bibliotecas mais antigas e amplamente utilizadas para visualização de dados em Python. Oferece uma ampla gama de gráficos e permite personalização detalhada. É uma excelente opção para criar gráficos estáticos e básicos.
+  - [Matplotlib:](https://github.com/EmersonLima1/Projeto06/blob/main/Visualiza%C3%A7%C3%A3o_de_Dados_Matplotlib.ipynb) É uma das bibliotecas mais antigas e amplamente utilizadas para visualização de dados em Python. Oferece uma ampla gama de gráficos e permite personalização detalhada. É uma excelente opção para criar gráficos estáticos e básicos.
 
   - Seaborn: Construída sobre o Matplotlib, o Seaborn fornece uma interface mais simplificada e estilizada para a criação de gráficos estatísticos. É especialmente útil para visualizações de dados multidimensionais, plotagem de distribuições e criação de gráficos de regressão.
 
